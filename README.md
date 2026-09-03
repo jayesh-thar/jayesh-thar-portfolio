@@ -26,6 +26,7 @@ I'm passionate about solving real-world engineering problems, writing clean and 
 <div align="center">
 
 Built by <a href="https://jayeshthar.me">Jayesh Thar</a> · final-year CE student, Marwadi University
+<br/>
 [jayeshthar.me](https://jayeshthar.me) · [GitHub](https://github.com/jayesh-thar) · [LinkedIn](https://linkedin.com/in/jayesh-thar)
 
 </div>
