@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger)
 export default function useReveal(deps = []) {
   useEffect(() => {
     const ctx = gsap.context(() => {
-      document.querySelectorAll('.reveal').forEach((el) => {
+      document.querySelectorAll('.reveal:not(.badge-bar)').forEach((el) => {
         gsap.to(el, {
           opacity: 1,
           y: 0,
@@ -27,6 +27,17 @@ export default function useReveal(deps = []) {
           ease: 'power3.out',
           delay: i * 0.03,
           scrollTrigger: { trigger: el, start: 'top 90%', once: true },
+        })
+      })
+
+      gsap.utils.toArray('.badge-bar').forEach((el, i) => {
+        gsap.to(el, {
+          opacity: 1,
+          y: 0,
+          duration: 0.7,
+          ease: 'power3.out',
+          delay: (i % 8) * 0.045,
+          scrollTrigger: { trigger: el, start: 'top 95%', once: true },
         })
       })
 

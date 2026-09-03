@@ -6,6 +6,7 @@ export default function Nav({ onResumeClick }) {
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
         <a href="#work">Work</a>
+        <a href="#achievements">Achievements</a>
         <a href="#education">Education</a>
         <a href="#contact">Contact</a>
       </nav>

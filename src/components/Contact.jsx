@@ -12,7 +12,7 @@ export default function Contact() {
           <div className="contact-row reveal">
             <a className="contact-email" href="mailto:jayeshthar1409@gmail.com">jayeshthar1409@gmail.com</a>
             <div className="contact-links">
-              <a href="https://jayeshthar.me" target="_blank" rel="noopener noreferrer">Website</a>
+              <a href="https://craftroom.jayeshthar.me" target="_blank" rel="noopener noreferrer">My 3D World ↗</a>
               <a href="https://github.com/jayesh-thar" target="_blank" rel="noopener noreferrer">GitHub</a>
               <a href="https://linkedin.com/in/jayesh-thar" target="_blank" rel="noopener noreferrer">LinkedIn</a>
               <a href="tel:+917202005106">+91 72020 05106</a>

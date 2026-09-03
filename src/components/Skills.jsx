@@ -1,10 +1,11 @@
 const GROUPS = [
-  { title: 'Languages', tags: ['JavaScript', 'TypeScript', 'Java', 'C'] },
   { title: 'Frontend', tags: ['React.js', 'Next.js', 'Redux / Context API', 'Tailwind CSS', 'HTML5', 'CSS3'] },
-  { title: 'Backend', tags: ['Node.js', 'Express.js'] },
-  { title: 'Data', tags: ['MongoDB', 'PostgreSQL', 'Redis'] },
-  { title: 'DevOps & Tools', tags: ['Docker', 'CI / CD', 'Git / GitHub'] },
-  { title: 'Systems & Concepts', tags: ['Secure Auth Flows', 'RESTful API Design', 'DB Modelling', 'System Design'] },
+  { title: 'Backend', tags: ['Node.js', 'Express.js', 'RESTful API Design', 'JWT Auth', 'Rate Limiting', 'Input Validation'] },
+  { title: 'DevOps & Cloud', tags: ['Docker', 'GitHub Actions (CI/CD)', 'AWS (EC2 / ECS / ECR / RDS)', 'Terraform', 'Git / GitHub'] },
+  { title: 'Databases', tags: ['MongoDB', 'PostgreSQL', 'Redis'] },
+  { title: 'Languages', tags: ['JavaScript', 'TypeScript', 'Java', 'C', 'Python'] },
+  { title: 'Testing', tags: ['Vitest', 'Jest', 'Unit & Integration Testing'] },
+  { title: 'Security', tags: ['AES-256-GCM', 'Argon2id', 'bcrypt', 'OAuth / JWT Flows'] },
 ]
 
 export default function Skills() {

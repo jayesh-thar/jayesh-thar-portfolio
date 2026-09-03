@@ -13,10 +13,16 @@ export default function About() {
               honest about what it does.
             </p>
             <p className="reveal">
-              Currently in my final year at Marwadi University, splitting my time between
-              production React/Next.js interfaces and the Node/Express systems behind them —
-              encryption, auth, and database design included, not bolted on later. I lean on AI
-              tooling deliberately, as a multiplier for judgment rather than a replacement for it.
+              Currently in my final year at Marwadi University, building full-stack, AI-integrated
+              web applications — from backend architecture and database design to CI/CD and cloud
+              deployment. I practice algorithmic problem-solving (DSA) regularly and put it to work
+              directly in production systems, not just interview prep.
+            </p>
+            <p className="reveal">
+              Recent work spans an AI research-pipeline platform, a zero-knowledge credential
+              vault, and Salesforce&apos;s Agentforce trail — security engineering, applied AI, and
+              automated testing across all three. I lean on AI tooling deliberately, as a
+              multiplier for judgment rather than a replacement for it.
             </p>
             <div className="about-meta reveal">
               <div>
@@ -27,7 +33,7 @@ export default function About() {
               </div>
               <div>
                 <strong>Focus</strong>
-                MERN &amp; PERN, Secure Systems
+                MERN &amp; PERN, Applied AI, Secure Systems
               </div>
               <div>
                 <strong>Based in</strong>

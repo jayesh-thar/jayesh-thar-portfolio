@@ -6,6 +6,7 @@ import Hero from './components/Hero.jsx'
 import About from './components/About.jsx'
 import Skills from './components/Skills.jsx'
 import Work from './components/Work.jsx'
+import Achievements from './components/Achievements.jsx'
 import Education from './components/Education.jsx'
 import Contact from './components/Contact.jsx'
 import ResumeModal from './components/ResumeModal.jsx'
@@ -50,6 +51,7 @@ export default function App() {
       <About />
       <Skills />
       <Work />
+      <Achievements />
       <Education />
       <Contact />
       <ResumeModal open={resumeOpen} onClose={() => setResumeOpen(false)} lenisRef={lenisRef} />
