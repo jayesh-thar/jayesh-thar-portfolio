@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jayesh Thar 
+# [Jayesh Thar](https://www.jayeshthar.me) 
 **Software Development Engineer (SDE) | Full-Stack & Backend Developer | React.js • Next.js • Node.js • TypeScript • PostgreSQL • MongoDB | AI Integration • Security • Docker • AWS • Terraform • CI/CD**
 
 ---
