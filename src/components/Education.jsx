@@ -29,6 +29,12 @@ const CERTS = [
     img: '/images/linux.png',
     link: 'https://drive.google.com/file/d/1ICwTRuCOl3KS4KrcGucJStgCrqpMZSGj/view?usp=sharing',
   },
+  {
+    name: 'Salesforce Administration — Infosys Springboard',
+    tag: 'Salesforce',
+    img: '/images/salesforce_admin.png',
+    link: 'https://drive.google.com/file/d/166BBlOOyUFkBvONgPWpdJQBYaHCCIYpj/view?usp=drive_link',
+  },
 ]
 
 export default function Education() {
