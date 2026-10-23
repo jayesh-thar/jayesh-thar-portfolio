@@ -49,7 +49,7 @@ export default function Education() {
             <div className="tl-year">2023 &ndash; 2027</div>
             <div>
               <div className="tl-role">B.Tech, Computer Engineering</div>
-              <div className="tl-sub">Marwadi University, Rajkot &middot; CGPA 8.37 &middot; No Backlog</div>
+              <div className="tl-sub">Marwadi University, Rajkot &middot; CGPA 8.33 &middot; No Backlog</div>
             </div>
           </div>
         </div>
