@@ -1,11 +1,11 @@
 const GROUPS = [
+  { title: 'Languages', tags: ['JavaScript', 'TypeScript', 'Java', 'C'] },
+  { title: 'Backend', tags: ['Node.js', 'Express.js', 'RESTful APIs', 'JWT Authentication'] },
   { title: 'Frontend', tags: ['React.js', 'Next.js', 'Redux / Context API', 'Tailwind CSS', 'HTML5', 'CSS3'] },
-  { title: 'Backend', tags: ['Node.js', 'Express.js', 'RESTful API Design', 'JWT Auth', 'Rate Limiting', 'Input Validation'] },
-  { title: 'DevOps & Cloud', tags: ['Docker', 'GitHub Actions (CI/CD)', 'AWS (EC2 / ECS / ECR / RDS)', 'Terraform', 'Git / GitHub'] },
   { title: 'Databases', tags: ['MongoDB', 'PostgreSQL', 'Redis'] },
-  { title: 'Languages', tags: ['JavaScript', 'TypeScript', 'Java', 'C', 'Python'] },
-  { title: 'Testing', tags: ['Vitest', 'Jest', 'Unit & Integration Testing'] },
-  { title: 'Security', tags: ['AES-256-GCM', 'Argon2id', 'bcrypt', 'OAuth / JWT Flows'] },
+  { title: 'DevOps & Cloud', tags: ['Docker', 'GitHub Actions (CI/CD)', 'AWS (EC2 / ECS / ECR / RDS)', 'Git / GitHub'] },
+  { title: 'Testing/Tools', tags: ['Jest', 'Postman'] },
+  { title: 'AI/LLM', tags: ['Gemini API', 'Vector Embeddings', 'Semantic Search', 'Prompt Design'] },
 ]
 
 export default function Skills() {
