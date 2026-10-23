@@ -9,31 +9,28 @@ export default function About() {
           </div>
           <div className="about-text">
             <p className="reveal">
-              I build software the way I&apos;d want to use it — fast, secure by default, and
-              honest about what it does.
+              I build software that is reliable, secure, and easy to use.
             </p>
             <p className="reveal">
-              Currently in my final year at Marwadi University, building full-stack, AI-integrated
-              web applications — from backend architecture and database design to CI/CD and cloud
-              deployment. I practice algorithmic problem-solving (DSA) regularly and put it to work
-              directly in production systems, not just interview prep.
+              I’m in my final year at Marwadi University. I focus on the backend: API design, databases, 
+              testing and deployment. I also build the React frontend, so I can take an app from idea to 
+              AWS on my own. I practice DSA on LeetCode regularly.
             </p>
             <p className="reveal">
-              Recent work spans an AI research-pipeline platform, a zero-knowledge credential
-              vault, and Salesforce&apos;s Agentforce trail — security engineering, applied AI, and
-              automated testing across all three. I lean on AI tooling deliberately, as a
-              multiplier for judgment rather than a replacement for it.
+              My main projects are Researcher Campus, a research workflow built on the Gemini API, 
+              and VaultX, a password manager where the server never sees your data. I use AI tools 
+              while coding, and I make sure I understand every part I ship.
             </p>
             <div className="about-meta reveal">
               <div>
                 <strong>Marwadi University</strong>
                 B.Tech Computer Engineering
                 <br />
-                2023 &ndash; 2027 &middot; CGPA 8.37
+                2023 &ndash; 2027 &middot; CGPA 8.33
               </div>
               <div>
                 <strong>Focus</strong>
-                MERN &amp; PERN, Applied AI, Secure Systems
+                Backend, APIs, Full-stack web
               </div>
               <div>
                 <strong>Based in</strong>
