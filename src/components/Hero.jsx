@@ -30,15 +30,14 @@ export default function Hero() {
       <div className="hero-scrim" />
       <StarField />
       <div className="hero-inner">
-        <div className="eyebrow hero-eyebrow"><span className="star">✦</span> Software Engineer — Full-Stack</div>
+        <div className="eyebrow hero-eyebrow"><span className="star">✦</span> SDE — FULL-STACK</div>
         <h1 className="hero-title">
           <span className="line"><span>Jayesh</span></span>
           <span className="line"><span>Thar</span></span>
         </h1>
         <p className="hero-sub reveal">
-          Final-year B.Tech Computer Engineer building end to end — React and Next.js on the
-          surface, Node and Express underneath, with security and system design treated as
-          first-class citizens.
+          Final-year B.Tech student building backend-heavy full-stack apps with Node.js, 
+          TypeScript, React and PostgreSQL, deployed on AWS.
         </p>
       </div>
       <div className="hero-foot">
